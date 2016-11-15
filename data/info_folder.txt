@@ -1,0 +1,1 @@
+This folder contains all kind of data. csv, txt,... files
